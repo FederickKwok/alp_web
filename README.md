@@ -1,6 +1,6 @@
 # alp_web
 
-A new Flutter project.
+A new Flutter web project for the Air & LCL platform.
 
 ## Getting Started
 
